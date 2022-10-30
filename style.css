@@ -1,0 +1,29 @@
+div {
+  border: 4px solid hsl(157, 92%, 42%);
+  margin: 1rem;
+  padding: 0.4rem;
+  text-align: center;
+  border-radius: 10px;
+}
+
+.obal {
+  border-color: #8192f3;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box {
+  border-color: #81eff3;
+}
+
+.zelena_bg {
+  background-color: rgb(102, 177, 28);
+}
+
+.modra_ramecek {
+  border-color: #004ad4;
+}
+
+#pepa {
+  color: red;
+}
